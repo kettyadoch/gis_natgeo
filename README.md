@@ -1,6 +1,6 @@
 # Land Cover Change Detection Using Random Forest Algorithm applied to Landsat 5 and Landsat 7 #
 
-This notebook provides a workflow where the model ingests a preprocessed multidate Landsat image and training data to to detect and predict Land Cover Changes. The model will predict four classes: Water to Water, Forest to Non-Forest, Non-Forest and Non-Forest to Non-Forest in Landsat imagery.
+This notebook provides a workflow where the model ingests a preprocessed multidate Landsat image and training data to detect and predict Land Cover Changes. The model will predict four classes: Water to Water, Forest to Non-Forest, Non-Forest and Non-Forest to Non-Forest in Landsat imagery.
 
 ## Setting up the environment
 
@@ -14,6 +14,8 @@ require(raster) #Methods to create a RasterLayer object
 require (rgdal) #Permit spatial data to be associated with coordinate reference systems
 ```
 ## Declaring global variables that will be used throughout the workflow
+
+###### The datasets used in this notebook maybe downloaded from here: Notebook_Data
 
 ```
 # Set working directory
