@@ -11,10 +11,11 @@ For a demo of this notebook visit: my-app.shinyapps.io/demo-lulc/
 For resulting maps, visit: 
 
 **Future plans/wish list for this work include:**
-*develop a R work flow to preprocess the data
-*develop a R workflow to quantify the data
-*develop code to integrate cloud capabilities and other data APIs
-*develop a web application with dashboard, graphs, maps and APIs
+
+* develop a R work flow to preprocess the data
+* develop a R workflow to quantify the data
+* develop code to integrate cloud capabilities and other data APIs
+* develop a web application with dashboard, graphs, maps and APIs
 
 ## Setting up the environment
 
