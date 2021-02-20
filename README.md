@@ -2,6 +2,14 @@
 
 This notebook provides a workflow where the model ingests a preprocessed multidate Landsat image and training data to detect and predict Land Cover Changes. The model will predict four classes: Water to Water, Forest to Non-Forest, Non-Forest and Non-Forest to Non-Forest in Landsat imagery.
 
+The bulk of the spatial preprocessing for the data and statistical quantification of land cover changes was implemented in QGIS.
+
+The workflow is implemented in R using Jupyter Notebooks. You can download the Notebook and replicate the workflow using localised project specific data.
+
+For a demo of this notebook visit: 
+
+For resulting maps, visit: 
+
 ## Setting up the environment
 
 ###### Importing packages, checking versions and resolving version conflicts and compatibility
