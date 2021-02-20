@@ -8,7 +8,6 @@ The workflow is implemented in R using Jupyter Notebooks. You can download the N
 
 For a demo of this notebook visit: my-app.shinyapps.io/demo-lulc/
 
-For resulting maps, visit: 
 
 **Future plans/wish list for this work include:**
 
