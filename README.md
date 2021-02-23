@@ -9,9 +9,9 @@ The workflow is implemented in R using Jupyter Notebooks. You can download the N
 Additonally, this code and related assets acts as a report for the National Geographic Society and Microsoft funded project;- **"Change detection for Land Cover Mapping in the areas surrounding the Murchison National Park"** where project; 
 
 **Goals and objectives were;**
-*Detect a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta. 
-*Quantify a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta and 
-*Use the developed tool to monitor land cover change over the next decade.
+* Detect a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta. 
+* Quantify a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta and 
+* Use the developed tool to monitor land cover change over the next decade.
 
 **Primary beneficiary of our work include;**
 *National and international natural resource management agencies like the Uganda Ministry of Agriculture, Uganda Wildlife Authority, the National Environment Management Authority, the World Conservation Society and World Wildlife Fund
