@@ -14,7 +14,7 @@ Additonally, this code and related assets acts as a report for the National Geog
 * Use the developed tool to monitor land cover change over the next decade.
 
 **Primary beneficiary of our work include;**
-*National and international natural resource management agencies like the Uganda Ministry of Agriculture, Uganda Wildlife Authority, the National Environment Management Authority, the World Conservation Society and World Wildlife Fund
+* National and international natural resource management agencies like the Uganda Ministry of Agriculture, Uganda Wildlife Authority, the National Environment Management Authority, the World Conservation Society and World Wildlife Fund
 
 ****
 
