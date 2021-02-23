@@ -1,20 +1,33 @@
 # Land Cover Change Detection Using Random Forest Algorithm applied to Landsat 5 and Landsat 7 #
 
-This notebook provides a workflow where the model ingests a preprocessed multidate Landsat image and training data to detect and predict Land Cover Changes. The model will predict four classes: Water to Water, Forest to Non-Forest, Non-Forest and Non-Forest to Non-Forest in Landsat imagery.
+This notebook provides a workflow where the model ingests a preprocessed multidate Landsat image and training data to detect and quantify Land Cover Changes. The model will detect four classes: Water to Water, Forest to Non-Forest, Non-Forest and Non-Forest to Non-Forest in Landsat imagery.
 
 The bulk of the spatial preprocessing for the data and statistical quantification of land cover changes was implemented in QGIS.
 
 The workflow is implemented in R using Jupyter Notebooks. You can download the Notebook and replicate the workflow using localised project specific data.
 
-For a demo of this notebook visit: my-app.shinyapps.io/demo-lulc/
+Additonally, this code and related assets acts as a report for the National Geographic Society and Microsoft funded project;- **"Change detection for Land Cover Mapping in the areas surrounding the Murchison National Park"** where project; 
 
+**Goals and objectives were;**
+*Detect a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta. 
+*Quantify a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta and 
+*Use the developed tool to monitor land cover change over the next decade.
+
+**Primary beneficiary of our work include;**
+*National and international natural resource management agencies like the Uganda Ministry of Agriculture, Uganda Wildlife Authority, the National Environment Management Authority, the World Conservation Society and World Wildlife Fund
+
+****
+
+For a demo of notebook capabilities, visit: my-app.shinyapps.io/demo-lulc/
 
 **Future plans/wish list for this work include:**
 
 * develop a R work flow to preprocess the data
-* develop a R workflow to quantify the data
+* develop a R workflow to quantify the data (during this project, quantification was made possible using QGIS capabilities)
 * develop code to integrate cloud capabilities and other data APIs
 * develop a web application with dashboard, graphs, maps and APIs
+* document the API
+* Blog and create dedicated social media pages(Github, Twitter, Facebook and LinkedIn)
 
 ## Setting up the environment
 
