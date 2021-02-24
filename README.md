@@ -13,9 +13,6 @@ Additonally, this code and related assets acts as a report for the National Geog
 * Quantify a decade of land cover change in the area surrounding the Murchison National Park and Lake Albert delta and 
 * Use the developed tool to monitor land cover change over the next decade.
 
-**Primary beneficiary of our work include;**
-* National and international natural resource management agencies like the Uganda Ministry of Agriculture, Uganda Wildlife Authority, the National Environment Management Authority, the World Conservation Society and World Wildlife Fund
-
 ****
 
 For a demo of notebook capabilities, visit: my-app.shinyapps.io/demo-lulc/
