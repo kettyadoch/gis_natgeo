@@ -26,6 +26,8 @@ For a demo of notebook capabilities, visit: my-app.shinyapps.io/demo-lulc/
 * document the API
 * Blog and create dedicated social media pages(Github, Twitter, Facebook and LinkedIn)
 
+The project is supported by National Geographic Society and Microsoft.
+
 ## Setting up the environment
 
 ###### Importing packages, checking versions and resolving version conflicts and compatibility
