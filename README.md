@@ -14,7 +14,7 @@ Additonally, this code and related assets acts as a report for the National Geog
 * Use the developed tool to monitor land cover change over the next decade.
 
 ****
-
+Sample data used for training this model and creating the land cover change maps can be accessed [here](https://www.dropbox.com/home/Sample%20data%20NG%20Reporting)
 For a demo of notebook capabilities, visit: my-app.shinyapps.io/demo-lulc/
 
 **Future plans/wish list for this work include:**
